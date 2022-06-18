@@ -1,6 +1,8 @@
 # Links
 
- 
+[Weekly Nerd aantekeningen](https://github.com/farrahton/weekly-nerd-2122/wiki/Weekly-Nerd-aantekeningen)
+
+[Weekly Mingle aantekeningen](https://github.com/farrahton/weekly-nerd-2122/wiki/Weekly-Mingle-aantekeningen)
 
 [article:nth-of-type(1) {
 CSS Day 2 from the year 2022
