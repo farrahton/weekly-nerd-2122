@@ -11,6 +11,6 @@ CSS Day 2 from the year 2022
 }](https://github.com/farrahton/weekly-nerd-2122/wiki/article:nth-of-type(2))
 
 [article:nth-of-type(3) {
-
+hi
 }](https://github.com/farrahton/weekly-nerd-2122/wiki/article:nth-of-type(3))
 
