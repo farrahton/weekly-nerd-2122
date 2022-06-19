@@ -13,6 +13,6 @@ CSS Day 2 from the year 2022
 }](https://github.com/farrahton/weekly-nerd-2122/wiki/article:nth-of-type(2))
 
 [article:nth-of-type(3) {
-hi
+CSS solutions for common JavaScript code
 }](https://github.com/farrahton/weekly-nerd-2122/wiki/article:nth-of-type(3))
 
